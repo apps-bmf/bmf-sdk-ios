@@ -12,7 +12,7 @@ let package = Package(
         .binaryTarget(
             name: "BMFSDK",
             url: "https://github.com/apps-bmf/bmf-sdk-ios/releases/download/v0.0.1-beta/BMFSDK.xcframework.zip",
-            checksum: "765824a2404f0e3f68a53fd833303b8c236caeaeb91cceb0cf6e1bd8d481671d"
+            checksum: "3bcacf0c47eb7303d8799d7d684da1d4e5a50aeed136af790bf8c3e0e5062179"
         ),
     ]
 )
